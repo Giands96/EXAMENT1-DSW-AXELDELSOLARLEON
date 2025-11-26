@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamenT1DSWAxelDelSolarLeon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+424364fe9db09594797422dedb72b25b59b795a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamenT1DSWAxelDelSolarLeon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamenT1DSWAxelDelSolarLeon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

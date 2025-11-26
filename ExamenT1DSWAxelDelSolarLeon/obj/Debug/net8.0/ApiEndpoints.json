@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ExamenT1DSWAxelDelSolarLeon.CursosController",
+    "Method": "ListarCursosPorNivel",
+    "RelativePath": "api/Cursos/nivel/{nivelAcademicoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nivelAcademicoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ExamenT1DSWAxelDelSolarLeon.Models.Curso, ExamenT1DSWAxelDelSolarLeon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
